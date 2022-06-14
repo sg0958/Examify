@@ -1,4 +1,4 @@
 # Examify
 
 
-website link : https://sg0958.github.io/Examify/
+website link : https://sg0958.github.io/Examify/index.html
